@@ -1,0 +1,22 @@
+{
+  "name": "coreblog",
+  "version": "0.0.1",
+  "description": "A dotNetCore blog engine experiment",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stramargio/CoreBlog.git"
+  },
+  "author": "Andrea Margiovanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stramargio/CoreBlog/issues"
+  },
+  "homepage": "https://github.com/stramargio/CoreBlog#readme"
+}
